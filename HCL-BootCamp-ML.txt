@@ -1,0 +1,56 @@
+Setup of R tools/Packages:
+
+1)	Tools Installation
+The following installations are required: R, RStudio (ide for R), Python, Jupyter notebook(ide for python).
+A)	Steps to install R:
+1)	Click the link : https://cran.r-project.org/bin/windows/base/
+2)	Select Download R as below:
+
+ 
+3)	Run the .exe file:
+In the setup wizard accept the default options and keep clicking on next, until the installation finishes. After it is completed the below windows appears, click on finish as below:
+
+B)	Steps to install RStudio (IDE for R):
+1)	Click on the link : https://www.rstudio.com/products/rstudio/download/.
+2)	Click on download for RstudioDesktop as below:
+ 
+3)	Select the preferred platform:
+
+
+4)	Run the downloaded .exe file:
+In the setup wizard accept the default options and keep clicking on next, until the installation finishes.
+
+
+2)	Packages Installation:
+A.	 Steps in R:
+1)	Open Rstudio.
+2)	To install package, execute the following command – install.packages(“<package name>”)
+3)	Install the following packages:
+e1071 
+lubridate 
+lubridate 
+reshape2 
+magrittr 
+dplyr
+caret 
+sampling 
+
+
+Pre-Reading Reference Material:
+Please find the below Pre-Reading reference material for ML Boot Camp. 
+
+Machine Learning:
+https://towardsdatascience.com/machine-learning-for-beginners-d247a9420dab
+https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a
+https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+ 
+Neural Networks:
+https://towardsdatascience.com/a-gentle-introduction-to-neural-networks-series-part-1-2b90b87795bc
+https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
+
+Google Colab GPU Tutorial:
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
+http://cs231n.github.io/convolutional-networks/
+https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras/
+https://www.learnopencv.com/understanding-feedforward-neural-networks/
